@@ -61,6 +61,46 @@ The player will be guided based on the key concepts of the mission, an object to
 
 ### Make your world alive.
 
+Each quest must be given a background, a story, or a twist that makes it interesting and has a real reason for existence. You have to take a very important object to a site B, well, okay, but have it stolen in the middle of the road, or tried, or a strange being appears to help me complete the task and provide me with important information along the way. about where I am, or about an important subplot.
+
+People love to be told stories and more if they are interesting. It does not matter if there is a choice, because there is no wrong decision, the important thing is that that story exists and that you do not feel that you are locked in a box, but that you are in an environment that lives and breathes by itself.
+
+
+### Reinforce the main narrative and game pillars
+
+When we create a quest and we want to weave a narrative, it must fit and reinforce some of the fundamental pillars of our game, so if magic or unicorns or aliens exist in our world, it will be normal for us to be told stories about invasions aliens, or how Fred once saw a unicorn and no one believed him and you must help him find it.
+
+Briefly said, make everything in cohesion with the world that we have created for the player and help make the main argument more credible and important. 
+
+
+## The 4X’s of Hayashida’s design
+
+Koichi Hayashida, lead designer of the latest 3D Mario games, defined his work philosophy with 4 concepts that together strengthen the design of Nintendo games.
+
+### Explore the world:
+Give the player the ability to move around the world to adopt a specific orientation of how to play
+
+### Expand the area to discover
+Give the player a space to test what they learn without being penalized by failure, a safe testing environment where they can begin to master the mechanics.
+
+### Exploit the mechanics:
+Once the player has mastered and internalized the mechanics, we must give importance to the decisions that the player makes when using the mechanics, leave him out of the safe space and face the danger so that he uses what he has learned against him.
+
+### Exterminate:
+Pose a challenge that tests everything at once as part of the end of the process, if the player has learned well, he will be rewarded for his own learning and will want more. 
+
+
+## Quest vs Mission
+Officially, according to the Cambridge Dictionary, a quest is "a long search for something that is difficult to find, or an attempt to achieve something difficult"
+
+But well, what is the difference between what we call a quest in design and what is a mission?
+
+We define a Quest as a difficult or greater objective, if we analyze it carefully from the point of view of video games. There are two main structures, one that follows the description and one that does not, this is where we see the difference.
+
+For example, let's see the quest as a crusade that our protagonist faces, with a much more narrative central structure. Instead, the mission can be done more similar to a task, something that the protagonist must do, for example an NPC asks you to do something and consequently he rewards you. This can be seen involved in a Quest, being part of it or not. 
+
+With this in mind, we could associate Quests with crusades and missions with something more like a task. 
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
