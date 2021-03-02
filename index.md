@@ -159,20 +159,20 @@ The more organic the approach, the better it is for the player.
 
 In the field of game design, there are several generic cases / stereotypes, which we must try to avoid at all costs. Although sometimes there is no choice but to use one.
 
-Christmas lights:
+ + Christmas lights:
 This is the kind of case where the map becomes cluttered with items that point you to many quests in different locations. Anything that is generating saturation for the player will take him out of the experience and make him feel compelled to perform those tasks, not to do them for pleasure.
 
-Excessive and unnecessary text:
+ + Excessive and unnecessary text:
 Use only key concepts and avoid regressive concepts. You do not have to reveal everything to the player directly and do not put filler. You have to convey an idea clearly, concisely and with the right number of words.
 
-Not taking into account the type of game you are doing:
+ + Not taking into account the type of game you are doing:
 Although it seems obvious, we must maintain the plot coherence of our game. Using external references from other games can be curious, but let's avoid using what is already created and let's focus on the key to what we are working on.
 
 
-Quest balance and location
+ + Quest balance and location:
 Try the quests you do, think about the pacing (rhythm) of the game and whether or not it is convenient to place them in that place you have given them, or it is better that they appear at another time or another place or they should be eliminated directly.
 
-Lack of variety
+ + Lack of variety:
 Players hate the feeling of repetition, that everything is the same and that they only advance in the same way through different spaces. You have to inject variety and quality, rather than be guided by quantity. It doesn't matter how many things you can do if they don't convey anything new or different. 
 
 
