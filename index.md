@@ -138,6 +138,46 @@ The satisfaction that human beings feel when completing a collection, seeing all
 As a human being, it is not usually pleasant to leave things in the middle of the process, we usually feel the feeling of having to finish what we started. This takes advantage of the feeling of responsibility and the ego of our player.  
 
 
+## Receiving Quests
+
+The quality standards for how we make the player receive a mission can go beyond putting exclamation marks on the head of each NPC who wants to say something to us.
+
+We must ensure that the characters generate interest on their own, either by their actions or their clothes, the objects they carry, or because they directly address us and open a dialog box without asking, although we can later reject the quest.
+
+We can guide the player to an isolated object in an area with a lot of space, we can make a poster on a wall have true readability when interacting with it.
+
+We must make these elements that are going to potentially lead us to temporarily focus on a narrative arc other than the main one, are sufficiently integrated into the world to have coherence within the scene, but are enough visible and attractive for us to take a look at them.
+
+To manage all these events we can provide the player with a menu of quests, usually in the form of a list in a notebook, indicating the distance to the objective or the key concept of this without saturating the player with information.
+
+Or we can also limit the number of active quests and that the player can resort to backtracking when finishing one to start another.
+
+The more organic the approach, the better it is for the player. 
+
+
+### What should we avoid
+
+In the field of game design, there are several generic cases / stereotypes, which we must try to avoid at all costs. Although sometimes there is no choice but to use one.
+
+ + Christmas lights:
+This is the kind of case where the map becomes cluttered with items that point you to many quests in different locations. Anything that is generating saturation for the player will take him out of the experience and make him feel compelled to perform those tasks, not to do them for pleasure.
+
+ + Excessive and unnecessary text:
+Use only key concepts and avoid regressive concepts. You do not have to reveal everything to the player directly and do not put filler. You have to convey an idea clearly, concisely and with the right number of words.
+
+ + Not taking into account the type of game you are doing:
+Although it seems obvious, we must maintain the plot coherence of our game. Using external references from other games can be curious, but let's avoid using what is already created and let's focus on the key to what we are working on.
+
+
+ + Quest balance and location:
+Try the quests you do, think about the pacing (rhythm) of the game and whether or not it is convenient to place them in that place you have given them, or it is better that they appear at another time or another place or they should be eliminated directly.
+
+ + Lack of variety:
+Players hate the feeling of repetition, that everything is the same and that they only advance in the same way through different spaces. You have to inject variety and quality, rather than be guided by quantity. It doesn't matter how many things you can do if they don't convey anything new or different. 
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
