@@ -116,7 +116,7 @@ One of our tasks as designers is to satisfy with quality experiences, but how do
 
 If our goal is to create a complete Quest, we may have some behavioral guidelines that most people follow.
 
-** Illusion of power: **
+**Illusion of power:**
 Giving you the freedom to choose different options during the Quest can help us convey the feeling that the player is making relevant decisions. We will also get him to get more involved in the plot due to the consequences of his actions. thus creating a positive experience that facilitates the transmission of that illusion of power.
 
 Since if you satisfy these three basic needs:
