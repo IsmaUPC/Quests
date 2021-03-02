@@ -176,6 +176,48 @@ Try the quests you do, think about the pacing (rhythm) of the game and whether o
  + Lack of variety:
 Players hate the feeling of repetition, that everything is the same and that they only advance in the same way through different spaces. You have to inject variety and quality, rather than be guided by quantity. It doesn't matter how many things you can do if they don't convey anything new or different. 
 
+## How to manage the process of quest creation
+Although it is true that there are countless ways to make a correct design, today I will talk about the 8 steps to follow, from the book "The advance Narrative Toolbox" written by Tobias Heussner.
+ 
+Obviously, everyone can modify the order of the steps, or delete and add as you see fit. Since this is a small guide taking into account the infinity of design possibilities.
+
+Creativity is your only limit. 
+
+### Step 1: Historical background 
+![Image](/Assets/step_1.jpg)
+
+Before we start with the design of a mission, we need to spend some time with the written and developed material that shapes our world, get to know it.
+The reason for doing this is because we must ensure that our missions make sense within the world and that they are part of it. For this reason, the less worked and the less solid the "Lore" of this is, the more it will seem that the missions are put with a shoehorn. 
+
+ ### Step 2: The hook
+![Image](/Assets/step_2.jpg)
+
+After spending some time on our background (and developing it further if necessary). That's when our mission hook comes into play.
+Arouse curiosity and attract the player, since this is the essence of any narrative piece in which the mission is involved.
+
+There is something that can help us, usually, if we can not summarize the idea we have for the mission, in one or two sentences, it means that we are not giving a clear idea and that it will probably confuse the player.
+
+This part is more important than it seems at first sight, so if we give a clear idea of what is being developed it can be extremely useful to transmit our vision.
+
+
+When developing a good hook, as a designer we must ask ourselves these questions, called core questions because they will help to form the central structure of this step and create a more solid hook. 
+
+
+
+1. Why is this mission fun to play?
+
+1. What makes it unique compared to the others?
+
+1. What information will the player get about the story?
+
+1. How “epic” is this mission?
+
+1. What is the purpose of it?
+
+Given the variety of missions and their context, it is not necessary that all questions be answered positively. But the higher the number, the more effective our hook will be. 
+
+
+
 
 
 
