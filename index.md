@@ -25,7 +25,7 @@ At the same time, the missions have also followed the same path, with the appear
 In this brief analysis I will provide you with different guidelines and tools that can help you. I will put several examples of good and bad praxis, obviously we will see games like Skyrim, the witcher 3 or wow in these comparisons. 
 
 
-###Mission Types
+### Mission Types
 
 If we look closely at the missions of all the games, we can see that there are a varied number of types among them.
 I will talk about the following 4 types:
@@ -45,7 +45,7 @@ The player is "forced" to do what we think is right, rather than letting him par
 So .. Is this really a good structure to follow for our design?
 
 
-##What quests are and how to create them properly
+## What quests are and how to create them properly
 
 A quest is an errand, a small mission, outside of the usual tasks that has the function of providing experience to the player, making the world they inhabit more familiar and providing something less brainy than the main story as well as being a small branch of the preset narrative.
 
@@ -57,7 +57,7 @@ Whether this element is object or person, when it is interacted with the player,
 Advising the player and giving him an idea about what his actions can do, influences decision-making and will give him a better sense of immersion.
 
 
-##How to guide the player, without him noticing
+## How to guide the player, without him noticing
 
 It is true that we want to convey a sense of freedom to the player, but at the same time we do not want him to lose himself, but we cannot take him by the hand and stop treating him as a rational being, so you have to find a balance.
 The player will be guided based on the key concepts of the mission, an object to carry, a person to protect or a puzzle to solve. The clues that we want the player to follow must be "subtle" but findable and easy to follow once understood. Let the interest flow not only from the reward, but from the sense of adventure.
