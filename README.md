@@ -1,2 +1,2 @@
 # Quests
-https://ismaupc.github.io/Quests_and_Missions/
+https://ismaupc.github.io/Quests_Design/
