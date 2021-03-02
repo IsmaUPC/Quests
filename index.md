@@ -102,6 +102,42 @@ For example, let's see the quest as a crusade that our protagonist faces, with a
 With this in mind, we could associate Quests with crusades and missions with something more like a task. 
 
 
+## Guiding player’s attention
+
+While designing a mission we have to take into account that we are creating an experience. For this we must take into account certain psychological factors that will help us create a better experience for our player.
+
+This is where we will talk about how to properly capture his attention. 
+
+This is why we must talk about some human and psychological behaviors that can help us create this content.
+
+We will analyze from a point closer to our player.
+What is it that makes our player interested in missions and have a desire for more?
+One of our tasks as designers is to satisfy with quality experiences, but how do you make them want a new experience or how do you exploit those needs in a crafty way?
+
+If our goal is to create a complete Quest, we may have some behavioral guidelines that most people follow.
+
+** Illusion of power: **
+Giving you the freedom to choose different options during the Quest can help us convey the feeling that the player is making relevant decisions. We will also get him to get more involved in the plot due to the consequences of his actions. thus creating a positive experience that facilitates the transmission of that illusion of power.
+
+Since if you satisfy these three basic needs:
+
+- Free will
+- Deal with the consequences of your actions
+- Situations close to reality.
+
+This will provide a much more satisfying experience.
+
+** Collectionism: **
+This section is very important if you consider Achiever type players. Surely you are a connoisseur of video games that exploit the feature of completing collections, such as the kolog seeds in "Zelda Breath of The Wild" or the stars in "Mario Odyssey".
+
+This takes advantage of one of the basic human instincts, inherited from our ancestors who walked while discovering and collecting new resources, a habit that over the years created this instinct to take or possess something.
+
+The satisfaction that human beings feel when completing a collection, seeing all its parts together and feeling that it has been completed, is the satisfaction that we will take advantage of.
+
+** The need to finish what was started: **
+As a human being, it is not usually pleasant to leave things in the middle of the process, we usually feel the feeling of having to finish what we started. This takes advantage of the feeling of responsibility and the ego of our player.  
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
