@@ -77,20 +77,20 @@ Briefly said, make everything in cohesion with the world that we have created fo
 
 Koichi Hayashida, lead designer of the latest 3D Mario games, defined his work philosophy with 4 concepts that together strengthen the design of Nintendo games.
 
-### Explore the world:
++ Explore the world:
 Give the player the ability to move around the world to adopt a specific orientation of how to play
 
-### Expand the area to discover
++ Expand the area to discover
 Give the player a space to test what they learn without being penalized by failure, a safe testing environment where they can begin to master the mechanics.
 
-### Exploit the mechanics:
++ Exploit the mechanics:
 Once the player has mastered and internalized the mechanics, we must give importance to the decisions that the player makes when using the mechanics, leave him out of the safe space and face the danger so that he uses what he has learned against him.
 
-### Exterminate:
++ Exterminate:
 Pose a challenge that tests everything at once as part of the end of the process, if the player has learned well, he will be rewarded for his own learning and will want more. 
 
 
-## Quest vs Mission
++ Quest vs Mission
 Officially, according to the Cambridge Dictionary, a quest is "a long search for something that is difficult to find, or an attempt to achieve something difficult"
 
 But well, what is the difference between what we call a quest in design and what is a mission?
