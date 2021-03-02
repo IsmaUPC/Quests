@@ -127,14 +127,14 @@ Since if you satisfy these three basic needs:
 
 This will provide a much more satisfying experience.
 
-** Collectionism: **
+**Collectionism:**
 This section is very important if you consider Achiever type players. Surely you are a connoisseur of video games that exploit the feature of completing collections, such as the kolog seeds in "Zelda Breath of The Wild" or the stars in "Mario Odyssey".
 
 This takes advantage of one of the basic human instincts, inherited from our ancestors who walked while discovering and collecting new resources, a habit that over the years created this instinct to take or possess something.
 
 The satisfaction that human beings feel when completing a collection, seeing all its parts together and feeling that it has been completed, is the satisfaction that we will take advantage of.
 
-** The need to finish what was started: **
+**The need to finish what was started:**
 As a human being, it is not usually pleasant to leave things in the middle of the process, we usually feel the feeling of having to finish what we started. This takes advantage of the feeling of responsibility and the ego of our player.  
 
 
