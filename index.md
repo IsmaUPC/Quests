@@ -74,7 +74,8 @@ Briefly said, make everything in cohesion with the world that we have created fo
 
 
 ## The 4X’s of Hayashida’s design
-
+ ![Image](/Assets/si_wiiu_super_mario3d_world.jpg)
+ 
 Koichi Hayashida, lead designer of the latest 3D Mario games, defined his work philosophy with 4 concepts that together strengthen the design of Nintendo games.
 
 + Explore the world:
