@@ -338,6 +338,7 @@ You should approach it as a summary to consult to see more clearly the result of
  + https://trello.com/b/AM3ZOmAd/level-design-compendium 
  + https://www.nyfa.edu/student-resources/tips-designing-fun-side-quests/
  + https://gamedev.stackexchange.com/questions/2482/tips-for-implementing-mmo-quest-mechanics
+ + https://thearzhel.github.io/Quest-Design/#how-to-manage-the-process-of-creating-a-quest
  + https://www.reddit.com/r/inkarnate/ 
 
 ## Videografia
