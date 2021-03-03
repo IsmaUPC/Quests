@@ -6,12 +6,12 @@ Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Devel
 ## What a mission is?
    ![Image](/Assets/mission.jpg)
 
-
 First of all I will define the word mission according to the Cambridge dictionary "a prolonged search for something that is difficult to find or an attempt to achieve something difficult." The clear definition of causality.
 
 But ... how should they be approached from the point of view of a video game designer? And what do they mean for the players?
 
 Well, we can say that mission design is part of the heart of our game, since it brings together 3 very important aspects, such as level design, the mechanics that are used and most importantly, the narrative.
+   ![Image](/Assets/grafic_quest_and_missions.jpg)
 
 Quoting Philippe Bergeron “Iterating the ideas of the designer alongside those of the writer. This is where most of the hours are spent for a good design".
 
