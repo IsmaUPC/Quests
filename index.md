@@ -1,7 +1,8 @@
 ## Quests and Missions design
 
 
-Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Development at the UPC through the CITM, and today I will explain a little about the design of these two points. The content of this web page has been developed as part of Project 2 of the second year subject, under the supervision of Ramon Santamaria. 
+Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Development at the UPC through the [CITM](https://www.citm.upc.edu/cat/), and today I will explain a little about the design of these two points. The content of this web page has been developed as part of Project 2 of the second year subject, under the supervision of [Ramon Santamaria](https://es.linkedin.com/in/raysan).
+
 
 ## What a mission is?
    ![Image](/Assets/mission.jpg)
@@ -285,6 +286,9 @@ To begin this step, it is recommended to write a short summary that will be visi
 
 The objective of the summary is that the players know in a matter of seconds what their current objectives are. For this text, it is good to be as short and precise as possible without breaking the imagination.
 
+   ![Image](/Assets/words.png)
+
+
 It is advisable to use clear verbs to describe the actions to be carried out. Perhaps the structure of Jo Kim can be to help you specify what words can benefit you.
 
 ### Step 7: Player's Information
@@ -322,6 +326,34 @@ You should approach it as a summary to consult to see more clearly the result of
 
 
 # Thanks for your wonderful time
+
+## Webgrafia 
+ + https://gameboard.tech/todo-se-basa-en-4-palabras/
+ + https://www.alaluzdeunabombilla.com/2020/07/07/el-flujo-de-diseno-en-las-misiones/
+ + http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html 
+ + https://www.gamasutra.com/blogs/MichaelHow/20190823/343703/Creating_a_Narrative_Focused_Mission_Design_Document__Last_of_Us_Example.php
+ + https://www.gamasutra.com/view/news/314812/Designing_side_quests_Study_these_7_games_and_some_Chris_Avellone_pointers.php 
+ + https://www.gamasutra.com/view/news/113897/GDC_Learning_From_World_of_Warcrafts_Quest_Design_Mistakes.php
+ + https://www.gamasutra.com/view/news/320222/It_can_never_be_that_simple_Designing_the_quests_of_Cyberpunk_2077.php
+ + https://trello.com/b/AM3ZOmAd/level-design-compendium 
+ + https://www.nyfa.edu/student-resources/tips-designing-fun-side-quests/
+ + https://gamedev.stackexchange.com/questions/2482/tips-for-implementing-mmo-quest-mechanics
+ + https://thearzhel.github.io/Quest-Design/#how-to-manage-the-process-of-creating-a-quest
+ + https://www.reddit.com/r/inkarnate/ 
+
+## Videografia
+ + https://www.youtube.com/watch?v=otAkP5VjIv8&t=188s
+ + https://www.youtube.com/watch?v=ur6GQp5mCYs&t=304s 
+ + https://www.youtube.com/watch?v=pOh8cGFu4Os&ab_channel=GDC
+ + https://www.youtube.com/watch?v=knWzlR8mGWA 
+ + https://www.youtube.com/watch?v=ecu2I2BBfCk 
+ + https://www.youtube.com/watch?v=yM1yR7WYqgM 
+
+## Tools
+ + https://inkarnate.com/maps/
+ + https://www.literatureandlatte.com/scrivener/overview 
+ + https://www.articy.com/en/   
+
 
 ### Support or Contact
 
