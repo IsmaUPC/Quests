@@ -1,7 +1,8 @@
 ## Quests and Missions design
 
 
-Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Development at the UPC through the CITM, and today I will explain a little about the design of these two points. The content of this web page has been developed as part of Project 2 of the second year subject, under the supervision of Ramon Santamaria. 
+Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Development at the UPC through the [CITM](https://www.citm.upc.edu/cat/), and today I will explain a little about the design of these two points. The content of this web page has been developed as part of Project 2 of the second year subject, under the supervision of [Ramon Santamaria](https://es.linkedin.com/in/raysan).
+
 
 ## What a mission is?
    ![Image](/Assets/mission.jpg)
