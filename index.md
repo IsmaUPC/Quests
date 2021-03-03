@@ -285,6 +285,9 @@ To begin this step, it is recommended to write a short summary that will be visi
 
 The objective of the summary is that the players know in a matter of seconds what their current objectives are. For this text, it is good to be as short and precise as possible without breaking the imagination.
 
+   ![Image](/Assets/words.png)
+
+
 It is advisable to use clear verbs to describe the actions to be carried out. Perhaps the structure of Jo Kim can be to help you specify what words can benefit you.
 
 ### Step 7: Player's Information
