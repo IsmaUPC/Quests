@@ -281,8 +281,8 @@ The objective of the summary is that the players know in a matter of seconds wha
 
 It is advisable to use clear verbs to describe the actions to be carried out. Perhaps the structure of Jo Kim can be to help you specify what words can benefit you.
 
-###Step 7: Player's Information
-   ![Image](/Assets/step_6.jpg)
+### Step 7: Player's Information
+   ![Image](/Assets/step_7.jpg)
 
 In this step, all the texts and / or dialogues that are related to the mission are covered and will be made visible to the player during the mission.
  
@@ -300,6 +300,16 @@ This step in turn, consists of at least three different texts:
  
 The first two texts are generally linked to the NPC (or character) who offers the mission, while the third can be given as a self-interpretation of the same person or being free.
  
+### Step 8: Summary of the information
+   ![Image](/Assets/step_8.jpg)
+
+The last step in this design process is the creation of all the information, in the game, necessary for this specific mission.
+ 
+This information block collects information such as when a mission is unlocked, who is the one who gives the mission, the closure condition (also known as the objective), etc. It also contains balancing information such as the target level range and what rewards female and male players will receive as soon as they have successfully solved the quest.
+ 
+This is where most of the tweaking happens and where game balance is addressed to ensure that you stay within the flow channel and that the difficulty and skill level required correspond to each other.
+ 
+You should approach it as a summary to consult to see more clearly the result of the iterations that you are doing, it is possible that the information does not vary much, but the fact that this summary exists could help you in cases in which the iterations have supposed big changes and you need to recapitulate to see the concept of the design that we previously had raised. 
 
 
 
