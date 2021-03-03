@@ -289,6 +289,8 @@ It is advisable to use clear verbs to describe the actions to be carried out. Pe
 
 ### Step 7: Player's Information
    ![Image](/Assets/step_7.gif)
+   _"Pokémon: Pearl and Diamond"_
+
 
 In this step, all the texts and / or dialogues that are related to the mission are covered and will be made visible to the player during the mission.
  
