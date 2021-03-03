@@ -190,6 +190,7 @@ Before we start with the design of a mission, we need to spend some time with th
 The reason for doing this is because we must ensure that our missions make sense within the world and that they are part of it. For this reason, the less worked and the less solid the "Lore" of this is, the more it will seem that the missions are put with a shoehorn. 
 
  ### Step 2: The hook
+ 
 ![Image](/Assets/step_2.jpg)
 
 After spending some time on our background (and developing it further if necessary). That's when our mission hook comes into play.
