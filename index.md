@@ -282,7 +282,7 @@ The objective of the summary is that the players know in a matter of seconds wha
 It is advisable to use clear verbs to describe the actions to be carried out. Perhaps the structure of Jo Kim can be to help you specify what words can benefit you.
 
 ### Step 7: Player's Information
-   ![Image](/Assets/step_7.jpg)
+   ![Image](/Assets/step_7.gif)
 
 In this step, all the texts and / or dialogues that are related to the mission are covered and will be made visible to the player during the mission.
  
