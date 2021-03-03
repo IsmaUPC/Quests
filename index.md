@@ -4,14 +4,16 @@
 Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Development at the UPC through the CITM, and today I will explain a little about the design of these two points. The content of this web page has been developed as part of Project 2 of the second year subject, under the supervision of Ramon Santamaria. 
 
 ## What a mission is?
+   ![Image](/Assets/mission.jpg)
 
 First of all I will define the word mission according to the Cambridge dictionary "a prolonged search for something that is difficult to find or an attempt to achieve something difficult." The clear definition of causality.
 
 But ... how should they be approached from the point of view of a video game designer? And what do they mean for the players?
 
 Well, we can say that mission design is part of the heart of our game, since it brings together 3 very important aspects, such as level design, the mechanics that are used and most importantly, the narrative.
+   ![Image](/Assets/grafic_quest_and_missions.jpg)
 
-Quoting Philippe Bergeron “Iterating the ideas of the designer alongside those of the writer. This is where most of the hours are spent for a good design "
+Quoting Philippe Bergeron “Iterating the ideas of the designer alongside those of the writer. This is where most of the hours are spent for a good design".
 
 That is why this part is of vital importance for game developers / designers since the player could forgive the graphics or certain mechanics, but not a repetitive and tedious narrative in a game in which the mechanics are 10 but the missions are the same over and over again creating repetitive routines in which the player ends up not spending time on them. 
 
@@ -312,32 +314,6 @@ This is where most of the tweaking happens and where game balance is addressed t
 You should approach it as a summary to consult to see more clearly the result of the iterations that you are doing, it is possible that the information does not vary much, but the fact that this summary exists could help you in cases in which the iterations have supposed big changes and you need to recapitulate to see the concept of the design that we previously had raised. 
 
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IsmaUPC/Quests/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
