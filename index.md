@@ -199,10 +199,7 @@ There is something that can help us, usually, if we can not summarize the idea w
 
 This part is more important than it seems at first sight, so if we give a clear idea of what is being developed it can be extremely useful to transmit our vision.
 
-
 When developing a good hook, as a designer we must ask ourselves these questions, called core questions because they will help to form the central structure of this step and create a more solid hook. 
-
-
 
 1. Why is this mission fun to play?
 
@@ -216,9 +213,92 @@ When developing a good hook, as a designer we must ask ourselves these questions
 
 Given the variety of missions and their context, it is not necessary that all questions be answered positively. But the higher the number, the more effective our hook will be. 
 
+And as a little help, to finish understanding question 4, (How epic is this mission), here's a graph that shows the curve of interest at the different points over time in the game, only as an explanatory observation of what Tobías tries to tell us in his book.
+
+### Step 3: General structure
+![Image](/Assets/step_3.jpg)
+
+In this step, is where we must begin to collect all the information that the chain of missions requires to be implemented correctly.
+ 
+Because a mission can be part of a larger chain, this will depend on the form that we have given it.
+ 
+For this step, a series of core questions are also given to help guiding the design.
+ 
+1. How many missions are part of this chain? Is it the main one?
+1. Where is it located?
+1. What gaming regions are involved?
+1. What NPCs / factions / guilds are involved?
+1. What articles or items do I need?
+1. Are there any special game mechanics required for this mission?
+ 
+The answers to these questions can be decisive, because ultimately they give an idea of how complex the mission chain could become.In addition, answering these questions at this point helps to establish the limits for the actual design of the missions. within this chain of missions.
+ 
+At the end of this step, it’s good to write a brief summary about the content, which makes this chain unique, that is, the missions that make it up as a whole and another brief paragraph about its plot to connect it in the background of the game thus converting it into a part more united to the world and its setting.
 
 
+### Step 4: The Mission Chart
+ ![Image](/Assets/step_4.jpg)
 
+With all the general information at hand, we can begin to draw the quest chart, which shows how all the quests in the quest chain relate to each other. To distinguish the different missions from each other, in the document they recommend giving them a descriptive name or naming them with their concept or hook. 
+ 
+### Recommendation: Articy Draft Tool
+  ![Image](/Assets/articy_draft.jpg)
+
+The way in which you mount your graphic is totally free, you can use post-its on a blackboard and join them with threads to the detective of the 50s, sketching on a paper or using a program created exclusively for this, I will let you know Articy: Draft. With this tool, you can design, join and rearrange your structure.
+ 
+ 
+### Step 5: The map
+  ![Image](/Assets/step_5.jpg)
+
+After designing (or during the process of this) the mission graph, the map comes into play, drawing a map of the region, of the world that we have created, where the chain of missions will happen, to have a better visualization of how these influence .
+ 
+The map is usually drawn as 'design art' and is far from everything the player will see in the later game (especially as regards missions), but it does help to get a better view of how the player will travel between the different locations while solving the quest chain.
+ 
+In short, it is a tangible embodiment of the "hero's journey." So we should have a rough idea of how the player will travel through the region to solve the quest chain and how the visuals, acoustics, etc. will enrich this experience. 
+ 
+### Reccomendation: Inkarnate Tool
+
+Inkarnate is a very useful tool that can help us a lot when developing a map.
+  ![Image](/Assets/inkarnate.gif)
+
+It has a free version that offers functions such as the creation of continents, lakes, cities, routes, mountains and other settings that could even inspire you with new ideas and have to change the Lore. Because you should not be afraid to iterate, iteration is your best tool.
+
+Its use is not very complex and it does something similar to other editors such as piskel or photoshop.
+
+### Step 6: In-game information
+  ![Image](/Assets/step_6.jpg)
+
+So far, we've only discussed the general information in a more "conceptualized" way that is needed to design a mission or quest chain, more from a designer's rather than a player's perspective.
+
+In this step, some of the things most necessary to create a real mission will be covered.
+
+In the book this information is called "in-game information" because most (not all) of the texts in this step will be directly visible to the player in one way or another.
+
+To begin this step, it is recommended to write a short summary that will be visible to the player.
+
+The objective of the summary is that the players know in a matter of seconds what their current objectives are. For this text, it is good to be as short and precise as possible without breaking the imagination.
+
+It is advisable to use clear verbs to describe the actions to be carried out. Perhaps the structure of Jo Kim can be to help you specify what words can benefit you.
+
+###Step 7: Player's Information
+   ![Image](/Assets/step_6.jpg)
+
+In this step, all the texts and / or dialogues that are related to the mission are covered and will be made visible to the player during the mission.
+ 
+Here you can feel free to write however you want, in prose, with riddles, direct, or whatever style you choose to create the atmosphere and tone that feels right for the context of the moment in the game during the point you are working on.
+ 
+Generally, this is the most fun step to implement, you will be able to put your design to the test and test as you can unleash all your creative potential to create with words the scenes that you would like to share with the player.
+ 
+This step in turn, consists of at least three different texts:
+ 
+1. Description (the text that the players will read, before accepting the mission).
+ 
+1. Text in progress (the text that will appear after accepting the mission or chain of missions, but before having solved it).
+ 
+1. Report (the text that will be displayed when this has been completed and therefore the mission is resolved).
+ 
+The first two texts are generally linked to the NPC (or character) who offers the mission, while the third can be given as a self-interpretation of the same person or being free.
+ 
 
 
 
