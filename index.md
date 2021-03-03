@@ -327,6 +327,33 @@ You should approach it as a summary to consult to see more clearly the result of
 
 # Thanks for your wonderful time
 
+## Webgrafia 
+https://gameboard.tech/todo-se-basa-en-4-palabras/
+https://www.alaluzdeunabombilla.com/2020/07/07/el-flujo-de-diseno-en-las-misiones/
+http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html 
+https://www.gamasutra.com/blogs/MichaelHow/20190823/343703/Creating_a_Narrative_Focused_Mission_Design_Document__Last_of_Us_Example.php
+https://www.gamasutra.com/view/news/314812/Designing_side_quests_Study_these_7_games_and_some_Chris_Avellone_pointers.php 
+https://www.gamasutra.com/view/news/113897/GDC_Learning_From_World_of_Warcrafts_Quest_Design_Mistakes.php
+https://www.gamasutra.com/view/news/320222/It_can_never_be_that_simple_Designing_the_quests_of_Cyberpunk_2077.php
+https://trello.com/b/AM3ZOmAd/level-design-compendium 
+https://www.nyfa.edu/student-resources/tips-designing-fun-side-quests/
+https://gamedev.stackexchange.com/questions/2482/tips-for-implementing-mmo-quest-mechanics
+https://www.reddit.com/r/inkarnate/ 
+
+## Videografia
+https://www.youtube.com/watch?v=otAkP5VjIv8&t=188s
+https://www.youtube.com/watch?v=ur6GQp5mCYs&t=304s 
+https://www.youtube.com/watch?v=pOh8cGFu4Os&ab_channel=GDC
+https://www.youtube.com/watch?v=knWzlR8mGWA 
+https://www.youtube.com/watch?v=ecu2I2BBfCk 
+https://www.youtube.com/watch?v=yM1yR7WYqgM 
+
+## Tools
+https://inkarnate.com/maps/
+https://www.literatureandlatte.com/scrivener/overview 
+https://www.articy.com/en/   
+
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
