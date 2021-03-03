@@ -312,11 +312,6 @@ This is where most of the tweaking happens and where game balance is addressed t
 You should approach it as a summary to consult to see more clearly the result of the iterations that you are doing, it is possible that the information does not vary much, but the fact that this summary exists could help you in cases in which the iterations have supposed big changes and you need to recapitulate to see the concept of the design that we previously had raised. 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IsmaUPC/Quests/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
