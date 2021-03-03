@@ -219,6 +219,7 @@ When developing a good hook, as a designer we must ask ourselves these questions
 
 1. What is the purpose of it?
 
+
 Given the variety of missions and their context, it is not necessary that all questions be answered positively. But the higher the number, the more effective our hook will be. 
 
 And as a little help, to finish understanding question 4, (How epic is this mission), here's a graph that shows the curve of interest at the different points over time in the game, only as an explanatory observation of what Tobías tries to tell us in his book.
@@ -238,6 +239,7 @@ For this step, a series of core questions are also given to help guiding the des
 1. What NPCs / factions / guilds are involved?
 1. What articles or items do I need?
 1. Are there any special game mechanics required for this mission?
+ 
  
 The answers to these questions can be decisive, because ultimately they give an idea of how complex the mission chain could become.In addition, answering these questions at this point helps to establish the limits for the actual design of the missions. within this chain of missions.
  
