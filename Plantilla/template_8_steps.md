@@ -19,7 +19,7 @@ Nombre de la misión:
 
 Preguntas centrales:
 
-2. ¿Por qué es divertida esta misión?
+1. ¿Por qué es divertida esta misión?
 
 2. ¿Qué lo hace único en comparación con los demás?
 
@@ -37,7 +37,7 @@ Nombre de la misión:
 
 Preguntas centrales:
 
-2. ¿Cuántas misiones forman parte de esta cadena? ¿Es la principal?
+1. ¿Cuántas misiones forman parte de esta cadena? ¿Es la principal?
 
 2. ¿Dónde está localizada?
 
@@ -98,7 +98,7 @@ Mapa del mundo o de la región:
 
 Nombre de la misión:
 
-2. ¿Cuando se desbloquea esta misión? 
+1. ¿Cuando se desbloquea esta misión? 
 
 2. ¿Quién la proporciona? 
 
