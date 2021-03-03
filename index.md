@@ -58,6 +58,7 @@ Whether this element is object or person, when it is interacted with the player,
 Advising the player and giving him an idea about what his actions can do, influences decision-making and will give him a better sense of immersion.
 
 ### How to guide the player, without him noticing
+   ![Image](/Assets/guide_player.gif)
 
 It is true that we want to convey a sense of freedom to the player, but at the same time we do not want him to lose himself, but we cannot take him by the hand and stop treating him as a rational being, so you have to find a balance.
 The player will be guided based on the key concepts of the mission, an object to carry, a person to protect or a puzzle to solve. The clues that we want the player to follow must be "subtle" but findable and easy to follow once understood. Let the interest flow not only from the reward, but from the sense of adventure.
@@ -143,6 +144,8 @@ As a human being, it is not usually pleasant to leave things in the middle of th
 
 
 ## Receiving Quests
+![Image](/Assets/reciving_mission.jpg)
+_"The Elder Scrolls Skyrim"_
 
 The quality standards for how we make the player receive a mission can go beyond putting exclamation marks on the head of each NPC who wants to say something to us.
 
