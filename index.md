@@ -11,6 +11,7 @@ First of all I will define the word mission according to the Cambridge dictionar
 But ... how should they be approached from the point of view of a video game designer? And what do they mean for the players?
 
 Well, we can say that mission design is part of the heart of our game, since it brings together 3 very important aspects, such as level design, the mechanics that are used and most importantly, the narrative.
+
    ![Image](/Assets/grafic_quest_and_missions.jpg)
 
 Quoting Philippe Bergeron “Iterating the ideas of the designer alongside those of the writer. This is where most of the hours are spent for a good design".
@@ -314,6 +315,8 @@ This is where most of the tweaking happens and where game balance is addressed t
 You should approach it as a summary to consult to see more clearly the result of the iterations that you are doing, it is possible that the information does not vary much, but the fact that this summary exists could help you in cases in which the iterations have supposed big changes and you need to recapitulate to see the concept of the design that we previously had raised. 
 
 
+
+# Thanks for your wonderful time
 
 ### Support or Contact
 
