@@ -11,6 +11,7 @@ First of all I will define the word mission according to the Cambridge dictionar
 But ... how should they be approached from the point of view of a video game designer? And what do they mean for the players?
 
 Well, we can say that mission design is part of the heart of our game, since it brings together 3 very important aspects, such as level design, the mechanics that are used and most importantly, the narrative.
+
    ![Image](/Assets/grafic_quest_and_missions.jpg)
 
 Quoting Philippe Bergeron “Iterating the ideas of the designer alongside those of the writer. This is where most of the hours are spent for a good design".
@@ -57,6 +58,7 @@ Whether this element is object or person, when it is interacted with the player,
 Advising the player and giving him an idea about what his actions can do, influences decision-making and will give him a better sense of immersion.
 
 ### How to guide the player, without him noticing
+   ![Image](/Assets/guide_player.gif)
 
 It is true that we want to convey a sense of freedom to the player, but at the same time we do not want him to lose himself, but we cannot take him by the hand and stop treating him as a rational being, so you have to find a balance.
 The player will be guided based on the key concepts of the mission, an object to carry, a person to protect or a puzzle to solve. The clues that we want the player to follow must be "subtle" but findable and easy to follow once understood. Let the interest flow not only from the reward, but from the sense of adventure.
@@ -142,6 +144,8 @@ As a human being, it is not usually pleasant to leave things in the middle of th
 
 
 ## Receiving Quests
+![Image](/Assets/reciving_mission.jpg)
+_"The Elder Scrolls Skyrim"_
 
 The quality standards for how we make the player receive a mission can go beyond putting exclamation marks on the head of each NPC who wants to say something to us.
 
@@ -314,6 +318,8 @@ This is where most of the tweaking happens and where game balance is addressed t
 You should approach it as a summary to consult to see more clearly the result of the iterations that you are doing, it is possible that the information does not vary much, but the fact that this summary exists could help you in cases in which the iterations have supposed big changes and you need to recapitulate to see the concept of the design that we previously had raised. 
 
 
+
+# Thanks for your wonderful time
 
 ### Support or Contact
 
