@@ -10,7 +10,7 @@ Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Devel
  5. [The 4X’s of Hayashida’s design](#id.4x)
  6. [Guiding player’s attention](#id.guiding_player)
  7. [Receiving Quests](#id.receiving_quests)
- 9. [How to manage the process of quest creation](#id.8steps)
+ 9. [8 steps on how to manage the mission creation process](#id.8steps)
    + [Step 1: Historical background](#idsteps.1)
    + [Step 2: The hook](#idsteps.2)
    + [Step 3: General structure](#idsteps.3)
@@ -23,7 +23,7 @@ Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Devel
 [Webgrafia](#id.webgrafia)
 
 
-```|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|```
+```|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|```
 
 ## What a mission is? <a name="id.mission_is">
    ![Image](/Assets/mission.jpg)
