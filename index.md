@@ -4,17 +4,13 @@ Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Devel
 
 
 ## Index
- 1. [What a mission is]
- 2. [Mission Types]
- 3. [How to properly create a Quest]
-   + How to guide the player, without him noticing
-   + Make your world alive.
-   + Reinforce the main narrative and game pillars
- 5. The 4X’s of Hayashida’s design
- 6. Guiding player’s attention
-   + Guiding player’s attention
- 7.Receiving Quests
- 9. [How to manage the process of quest creation]
+ 1. [What a mission is](#id.mission_is)
+ 2. [Mission Types](#id.mission_types)
+ 3. [How to properly create a Quest](#id.how_create)
+ 5. [The 4X’s of Hayashida’s design](#id.4x)
+ 6. [Guiding player’s attention](#id.guidin_player)
+ 7. [Receiving Quests](#id.receiving_quests)
+ 9. [How to manage the process of quest creation](#id.8steps)
    + [Step 1: Historical background](#idsteps.1)
    + [Step 2: The hook](#idsteps.2)
    + [Step 3: General structure](#idsteps.3)
@@ -24,10 +20,12 @@ Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Devel
    + [Step 7: Player’s Information](#idsteps.7)
    + [Step 8: Summary of the information](#idsteps.8)
 
+[Webgrafia](#id.webgrafia)
+
 
 ```                                                      ```
 
-## What a mission is?
+## What a mission is? <a name="id.mission_is">
    ![Image](/Assets/mission.jpg)
 
 First of all I will define the word mission according to the Cambridge dictionary "a prolonged search for something that is difficult to find or an attempt to achieve something difficult." The clear definition of causality.
@@ -52,7 +50,7 @@ At the same time, the missions have also followed the same path, with the appear
 In this brief analysis I will provide you with different guidelines and tools that can help you. I will put several examples of good and bad praxis, obviously we will see games like Skyrim, the witcher 3 or wow in these comparisons. 
 
 
-## Mission Types
+## Mission Types <a name="id.mission_types">
 
 If we look closely at the missions of all the games, we can see that there are a varied number of types among them.
 I will talk about the following 4 types:
@@ -352,7 +350,7 @@ You should approach it as a summary to consult to see more clearly the result of
 
 # Thanks for your wonderful time
 
-## Webgrafia 
+## Webgrafia <a name="id.webgrafia">
  + [https://gameboard.tech/todo-se-basa-en-4-palabras/](https://gameboard.tech/todo-se-basa-en-4-palabras/)
  + [https://www.alaluzdeunabombilla.com/2020/07/07/el-flujo-de-diseno-en-las-misiones/](https://www.alaluzdeunabombilla.com/2020/07/07/el-flujo-de-diseno-en-las-misiones/) 
  + [http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html ](http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html)
