@@ -23,7 +23,7 @@ Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Devel
 [Webgrafia](#id.webgrafia)
 
 
-```                                                      ```
+```|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|```
 
 ## What a mission is? <a name="id.mission_is">
    ![Image](/Assets/mission.jpg)
