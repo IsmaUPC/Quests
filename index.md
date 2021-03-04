@@ -8,7 +8,7 @@ Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Devel
  2. [Mission Types](#id.mission_types)
  3. [How to properly create a Quest](#id.how_create)
  5. [The 4X’s of Hayashida’s design](#id.4x)
- 6. [Guiding player’s attention](#id.guidin_player)
+ 6. [Guiding player’s attention](#id.guiding_player)
  7. [Receiving Quests](#id.receiving_quests)
  9. [How to manage the process of quest creation](#id.8steps)
    + [Step 1: Historical background](#idsteps.1)
@@ -70,7 +70,7 @@ The player is "forced" to do what we think is right, rather than letting him par
 So .. Is this really a good structure to follow for our design?
 
 
-## How to properly create a Quest
+## How to properly create a Quest <a name="id.how_create">
 
 Lately the trend when developing video games is to try to make the player feel free and have the feeling of writing his own story, because the feeling of choosing gives them satisfaction, since they are not weighed down by a fixed script, at least not 100%. %.
 
@@ -79,7 +79,7 @@ Whether this element is object or person, when it is interacted with the player,
 
 Advising the player and giving him an idea about what his actions can do, influences decision-making and will give him a better sense of immersion.
 
-### How to guide the player, without him noticing
+### How to guide the player, without him noticing 
    ![Image](/Assets/guide_player.gif)
 
 It is true that we want to convey a sense of freedom to the player, but at the same time we do not want him to lose himself, but we cannot take him by the hand and stop treating him as a rational being, so you have to find a balance.
@@ -99,7 +99,7 @@ When we create a quest and we want to weave a narrative, it must fit and reinfor
 Briefly said, make everything in cohesion with the world that we have created for the player and help make the main argument more credible and important. 
 
 
-## The 4X’s of Hayashida’s design
+## The 4X’s of Hayashida’s design <a name="id.4x">
  ![Image](/Assets/si_wiiu_super_mario3d_world.jpg)
  
 Koichi Hayashida, lead designer of the latest 3D Mario games, defined his work philosophy with 4 concepts that together strengthen the design of Nintendo games.
@@ -129,7 +129,7 @@ For example, let's see the quest as a crusade that our protagonist faces, with a
 With this in mind, we could associate Quests with crusades and missions with something more like a task. 
 
 
-## Guiding player’s attention
+## Guiding player’s attention <a name="id.guiding_player"> <a name="id.guiding_player">
 
 While designing a mission we have to take into account that we are creating an experience. For this we must take into account certain psychological factors that will help us create a better experience for our player.
 
@@ -165,7 +165,7 @@ The satisfaction that human beings feel when completing a collection, seeing all
 As a human being, it is not usually pleasant to leave things in the middle of the process, we usually feel the feeling of having to finish what we started. This takes advantage of the feeling of responsibility and the ego of our player.  
 
 
-## Receiving Quests
+## Receiving Quests <a name="id.receiving_quests">
 ![Image](/Assets/reciving_mission.jpg)
 _"The Elder Scrolls Skyrim"_
 
@@ -204,7 +204,7 @@ Try the quests you do, think about the pacing (rhythm) of the game and whether o
  + Lack of variety:
 Players hate the feeling of repetition, that everything is the same and that they only advance in the same way through different spaces. You have to inject variety and quality, rather than be guided by quantity. It doesn't matter how many things you can do if they don't convey anything new or different. 
 
-## How to manage the process of quest creation
+## How to manage the process of quest creation <a name="id.8steps">
 Although it is true that there are countless ways to make a correct design, today I will talk about the 8 steps to follow, from the book "The advance Narrative Toolbox" written by Tobias Heussner.
  
 Obviously, everyone can modify the order of the steps, or delete and add as you see fit. Since this is a small guide taking into account the infinity of design possibilities.
