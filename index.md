@@ -1,6 +1,20 @@
 ## Quests and Missions design
 
 
+## Index
+ 1. What a mission is?
+ 2. Mission Types
+ 3. How to manage the process of quest creation
+   + [Step 1: Historical background](#idsteps.1)
+   + [Step 2: The hook](#idsteps.2)
+   + [Step 3: General structure](#idsteps.3)
+   + [Step 4: The Mission Chart](#idsteps.4)
+   + [Step 5: The map](#idsteps.5)
+   + [Step 6: In-game information](#idsteps.6)
+   + [Step 7: Player’s Information](#idsteps.7)
+   + [Step 8: Summary of the information](#idsteps.8)
+
+
 Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Development at the UPC through the [CITM](https://www.citm.upc.edu/cat/), and today I will explain a little about the design of these two points. The content of this web page has been developed as part of Project 2 of the second year subject, under the supervision of [Ramon Santamaria](https://es.linkedin.com/in/raysan).
 
 
@@ -190,13 +204,13 @@ Obviously, everyone can modify the order of the steps, or delete and add as you 
 
 Creativity is your only limit. 
 
-### Step 1: Historical background 
+### Step 1: Historical background <a name="idsteps.1">
 ![Image](/Assets/step_1.jpg)
 
 Before we start with the design of a mission, we need to spend some time with the written and developed material that shapes our world, get to know it.
 The reason for doing this is because we must ensure that our missions make sense within the world and that they are part of it. For this reason, the less worked and the less solid the "Lore" of this is, the more it will seem that the missions are put with a shoehorn. 
 
-### Step 2: The hook
+### Step 2: The hook <a name="idsteps.2">
  
 ![Image](/Assets/step_2.jpg)
 
@@ -224,7 +238,7 @@ Given the variety of missions and their context, it is not necessary that all qu
 
 And as a little help, to finish understanding question 4, (How epic is this mission), here's a graph that shows the curve of interest at the different points over time in the game, only as an explanatory observation of what Tobías tries to tell us in his book.
 
-### Step 3: General structure
+### Step 3: General structure <a name="idsteps.3">
 ![Image](/Assets/step_3.jpg)
 
 In this step, is where we must begin to collect all the information that the chain of missions requires to be implemented correctly.
@@ -246,7 +260,7 @@ The answers to these questions can be decisive, because ultimately they give an 
 At the end of this step, it’s good to write a brief summary about the content, which makes this chain unique, that is, the missions that make it up as a whole and another brief paragraph about its plot to connect it in the background of the game thus converting it into a part more united to the world and its setting.
 
 
-### Step 4: The Mission Chart
+### Step 4: The Mission Chart <a name="idsteps.4">
  ![Image](/Assets/step_4.jpg)
 
 With all the general information at hand, we can begin to draw the quest chart, which shows how all the quests in the quest chain relate to each other. To distinguish the different missions from each other, in the document they recommend giving them a descriptive name or naming them with their concept or hook. 
@@ -257,7 +271,7 @@ With all the general information at hand, we can begin to draw the quest chart, 
 The way in which you mount your graphic is totally free, you can use post-its on a blackboard and join them with threads to the detective of the 50s, sketching on a paper or using a program created exclusively for this, I will let you know Articy: Draft. With this tool, you can design, join and rearrange your structure.
  
  
-### Step 5: The map
+### Step 5: The map <a name="idsteps.5">
   ![Image](/Assets/step_5.jpg)
 
 After designing (or during the process of this) the mission graph, the map comes into play, drawing a map of the region, of the world that we have created, where the chain of missions will happen, to have a better visualization of how these influence .
@@ -275,7 +289,7 @@ It has a free version that offers functions such as the creation of continents, 
 
 Its use is not very complex and it does something similar to other editors such as piskel or photoshop.
 
-### Step 6: In-game information
+### Step 6: In-game information <a name="idsteps.6">
   ![Image](/Assets/step_6.jpg)
 
 So far, we've only discussed the general information in a more "conceptualized" way that is needed to design a mission or quest chain, more from a designer's rather than a player's perspective.
@@ -293,7 +307,7 @@ The objective of the summary is that the players know in a matter of seconds wha
 
 It is advisable to use clear verbs to describe the actions to be carried out. Perhaps the structure of Jo Kim can be to help you specify what words can benefit you.
 
-### Step 7: Player's Information
+### Step 7: Player's Information <a name="idsteps.7">
    ![Image](/Assets/step_7.gif)
    _"Pokémon: Pearl and Diamond"_
 
@@ -314,7 +328,7 @@ This step in turn, consists of at least three different texts:
  
 The first two texts are generally linked to the NPC (or character) who offers the mission, while the third can be given as a self-interpretation of the same person or being free.
  
-### Step 8: Summary of the information
+### Step 8: Summary of the information <a name="idsteps.8">
    ![Image](/Assets/step_8.jpg)
 
 The last step in this design process is the creation of all the information, in the game, necessary for this specific mission.
