@@ -2,9 +2,17 @@
 
 
 ## Index
- 1. What a mission is?
- 2. Mission Types
- 3. How to manage the process of quest creation
+ 1. [What a mission is]
+ 2. [Mission Types]
+ 3. [How to properly create a Quest]
+   + How to guide the player, without him noticing
+   + Make your world alive.
+   + Reinforce the main narrative and game pillars
+ 5. The 4X’s of Hayashida’s design
+ 6. Guiding player’s attention
+   + Guiding player’s attention
+ 7.Receiving Quests
+ 9. [How to manage the process of quest creation]
    + [Step 1: Historical background](#idsteps.1)
    + [Step 2: The hook](#idsteps.2)
    + [Step 3: General structure](#idsteps.3)
