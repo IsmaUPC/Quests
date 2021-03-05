@@ -204,7 +204,7 @@ Try the quests you do, think about the pacing (rhythm) of the game and whether o
  + Lack of variety:
 Players hate the feeling of repetition, that everything is the same and that they only advance in the same way through different spaces. You have to inject variety and quality, rather than be guided by quantity. It doesn't matter how many things you can do if they don't convey anything new or different. 
 
-## How to manage the process of quest creation <a name="id.8steps">
+## The 8 Steps to Good Mission Design <a name="id.8steps">
 Although it is true that there are countless ways to make a correct design, today I will talk about the 8 steps to follow, from the book "The advance Narrative Toolbox" written by Tobias Heussner.
  
 Obviously, everyone can modify the order of the steps, or delete and add as you see fit. Since this is a small guide taking into account the infinity of design possibilities.
