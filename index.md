@@ -1,6 +1,6 @@
 ## Quests and Missions design
 
-Hello, I’m [Ismael Tejada](www.linkedin.com/in/ismatc), a student of the degree in Videogame Design and Development at the UPC through the [CITM](https://www.citm.upc.edu/cat/), and today I will explain a little about the design of [Quest and Missions](https://github.com/IsmaUPC/Quests_Design/tree/gh-pages). The content of this web page has been developed as part of Project 2 of the second year subject, under the supervision of [Ramon Santamaria](https://es.linkedin.com/in/raysan).
+Hello, I’m [Ismael Tejada](https://www.linkedin.com/in/ismatc/), a student of the degree in Videogame Design and Development at the UPC through the [CITM](https://www.citm.upc.edu/cat/), and today I will explain a little about the design of [Quest and Missions](https://github.com/IsmaUPC/Quests_Design/tree/gh-pages). The content of this web page has been developed as part of Project 2 of the second year subject, under the supervision of [Ramon Santamaria](https://es.linkedin.com/in/raysan).
 
 ## Index
  1. [What a mission is](#id.mission_is)
