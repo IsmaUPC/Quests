@@ -20,7 +20,10 @@ Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Devel
    + [Step 7: Player’s Information](#idsteps.7)
    + [Step 8: Summary of the information](#idsteps.8)
 
-[Webgrafia](#id.webgrafia)
+ [Webgrafia](#id.webgrafia)
+ [Videografia](#id.videografia)
+ [Tools](#id.tools)
+
 
 
 #  
@@ -364,7 +367,7 @@ You should approach it as a summary to consult to see more clearly the result of
  + [https://thearzhel.github.io/Quest-Design/#how-to-manage-the-process-of-creating-a-quest](https://thearzhel.github.io/Quest-Design/#how-to-manage-the-process-of-creating-a-quest)
  + [https://www.reddit.com/r/inkarnate/](https://www.reddit.com/r/inkarnate/ )
 
-## Videografia
+## Videografia <a name="id.videografia">
  + [https://www.youtube.com/watch?v=otAkP5VjIv8&t=188s](https://www.youtube.com/watch?v=otAkP5VjIv8&t=188s)
  + [https://www.youtube.com/watch?v=ur6GQp5mCYs&t=304s](https://www.youtube.com/watch?v=ur6GQp5mCYs&t=304s)
  + [https://www.youtube.com/watch?v=pOh8cGFu4Os&ab_channel=GDC](https://www.youtube.com/watch?v=pOh8cGFu4Os&ab_channel=GDC)
@@ -372,7 +375,7 @@ You should approach it as a summary to consult to see more clearly the result of
  + [https://www.youtube.com/watch?v=ecu2I2BBfCk](https://www.youtube.com/watch?v=ecu2I2BBfCk)
  + [https://www.youtube.com/watch?v=yM1yR7WYqgM](https://www.youtube.com/watch?v=yM1yR7WYqgM)
 
-## Tools
+## Tools <a name="id.tools">
  + [Inkarnate](https://inkarnate.com/maps/)
  + [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
  + [Articy: Draft](https://www.articy.com/en/)
