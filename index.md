@@ -6,10 +6,10 @@ Hello, I’m [Ismael Tejada](www.linkedin.com/in/ismatc), a student of the degre
  1. [What a mission is](#id.mission_is)
  2. [Mission Types](#id.mission_types)
  3. [How to properly create a Quest](#id.how_create)
- 5. [The 4X’s of Hayashida’s design](#id.4x)
- 6. [Guiding player’s attention](#id.guiding_player)
- 7. [Receiving Quests](#id.receiving_quests)
- 9. [The 8 Steps to Good Mission Design](#id.8steps)
+ 4. [The 4X’s of Hayashida’s design](#id.4x)
+ 5. [Guiding player’s attention](#id.guiding_player)
+ 6. [Receiving Quests](#id.receiving_quests)
+ 7. [The 8 Steps to Good Mission Design](#id.8steps)
    + [Step 1: Historical background](#idsteps.1)
    + [Step 2: The hook](#idsteps.2)
    + [Step 3: General structure](#idsteps.3)
@@ -19,9 +19,9 @@ Hello, I’m [Ismael Tejada](www.linkedin.com/in/ismatc), a student of the degre
    + [Step 7: Player’s Information](#idsteps.7)
    + [Step 8: Summary of the information](#idsteps.8)
 
- 10. [Webgrafia](#id.webgrafia).
- 11. [Videografia](#id.videografia).
- 12. [Tools](#id.tools).
+ 8. [Webgrafia](#id.webgrafia).
+ 9. [Videografia](#id.videografia).
+ 10. [Tools](#id.tools).
 
 #  
 
