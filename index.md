@@ -21,7 +21,9 @@ Hello,I’m Ismael Tejada, a student of the degree in Videogame Design and Devel
    + [Step 8: Summary of the information](#idsteps.8)
 
  [Webgrafia](#id.webgrafia)
+ 
  [Videografia](#id.videografia)
+ 
  [Tools](#id.tools)
 
 
